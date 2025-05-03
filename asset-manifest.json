@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wos-mia-calculator/static/css/main.f855e6bc.css",
+    "main.js": "/wos-mia-calculator/static/js/main.89336238.js",
+    "static/js/453.ade9e23e.chunk.js": "/wos-mia-calculator/static/js/453.ade9e23e.chunk.js",
+    "static/media/logo.svg": "/wos-mia-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wos-mia-calculator/index.html",
+    "main.f855e6bc.css.map": "/wos-mia-calculator/static/css/main.f855e6bc.css.map",
+    "main.89336238.js.map": "/wos-mia-calculator/static/js/main.89336238.js.map",
+    "453.ade9e23e.chunk.js.map": "/wos-mia-calculator/static/js/453.ade9e23e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.89336238.js"
+  ]
+}
